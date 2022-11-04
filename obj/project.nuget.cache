@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/tZODVVH0G9i9szShbiPztBBxt8VwTK0EslMtq5zgT/FdnCl+PzjduT8jFYnwll8eQ6vT3cLSd52JknMv25Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johan\\source\\repos\\AutoClose\\AutoClose.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johan\\.nuget\\packages\\pinvoke.windows.core\\0.7.124\\pinvoke.windows.core.0.7.124.nupkg.sha512",
+    "C:\\Users\\johan\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
